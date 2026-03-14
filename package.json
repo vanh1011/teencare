@@ -1,0 +1,8 @@
+{
+  "name": "teen-up",
+  "private": true,
+  "scripts": {
+    "docker:up": "docker compose up --build",
+    "docker:down": "docker compose down"
+  }
+}
